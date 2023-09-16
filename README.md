@@ -291,6 +291,11 @@ A microservices architecture can be an effective approach for building a travel 
 
 ![](img.006.png)
 
+**Push Notifications Architecture Overview**
+
+![](img.016.png)
+
+
 
 1. User Interface (UI):
    1. This is the frontend layer accessible to users through web browsers or mobile apps.
