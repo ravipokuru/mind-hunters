@@ -91,7 +91,7 @@ Embracing a vision of empowerment, Road Warrior sets out to redefine travel expe
 
 Build the next generation online trip management dashboard to allow travellers to see all their existing reservations organized by trip either online (web) or through their mobile device. 
 
-Detail Use Case can be found HERE
+Detail Use Case can be found [here](./requirments.pdf) - 
 
 **Technical Constraint**
 
