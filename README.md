@@ -1,11 +1,11 @@
 ﻿**Team Members**
+ 
 Bramhchariya, Ujjwal
-====================
-# Maram Prathyusha
-# Prasad, Thiragabathina
-# Singh, Kamal Deep
-# Swaroop, Abhigyan
-# Thakur, Amitava
+Maram Prathyusha
+Prasad, Thiragabathina
+Singh, Kamal Deep
+Swaroop, Abhigyan
+Thakur, Amitava
 
 
 
