@@ -10,8 +10,6 @@ Singh, Kamal Deep
 
 Swaroop, Abhigyan
 
-Thakur, Amitava
-
 
 
 
@@ -56,6 +54,7 @@ Thakur, Amitava
 - **Microservices – Essential Components**
 - **The Road Warrior Conceptual Architecture**
 - **The Road Warrior Logical Architecture**
+  - **Push Notifications Architecture Overview**
 - **Components**
   - **Identity Manager**
   - **Email Polling**
